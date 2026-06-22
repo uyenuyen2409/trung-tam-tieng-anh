@@ -16,7 +16,7 @@ namespace QL_trung_tam_tieng_anh
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Forms.frmLogin());
         }
     }
 }
