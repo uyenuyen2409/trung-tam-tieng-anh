@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\trung-tam-tieng-anh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|d:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmtongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmtongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|d:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmtongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmtongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmtongquan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmtongquan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmkhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmhocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\forms\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\forms\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|D:\\trung-tam-tieng-anh\\ql trung tam tieng anh\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D30089D-B644-4D67-96C4-354C4A9BF6CD}|QL trung tam tieng anh\\QL trung tam tieng anh.csproj|solutionrelative:ql trung tam tieng anh\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\DAL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\DAL\\DbHelper.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\DAL\\DbHelper.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\DAL\\DbHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T05:48:34.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\frmMain.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\frmMain.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\frmMain.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:28:26.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTongQuan.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmTongQuan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:10:21.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTongQuan.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmTongQuan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:17:55.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:39:34.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\frmMain.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\frmMain.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\frmMain.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:29:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTongQuan.Designer.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.Designer.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmTongQuan.Designer.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmTongQuan.Designer.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmTongQuan.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAASwMIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T16:18:18.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDangKy.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmDangKy.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:58:47.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKhoaHoc.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T14:14:08.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:21:12.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmRegister.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:25:55.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmGiangVien.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:58:30.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmKhoaHoc.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmKhoaHoc.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:58:39.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmGiangVien.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmGiangVien.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:00:30.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmHocVien.cs [Design]",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmHocVien.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmHocVien.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmHocVien.cs [Design]",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmHocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:00:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:21:21.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Forms\\frmRegister.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:25:56.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Theme.cs",
+              "RelativeDocumentMoniker": "QL trung tam tieng anh\\Theme.cs",
+              "ToolTip": "D:\\trung-tam-tieng-anh\\QL trung tam tieng anh\\Theme.cs",
+              "RelativeToolTip": "QL trung tam tieng anh\\Theme.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:14:10.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
